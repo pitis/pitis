@@ -2,10 +2,10 @@
 
 #### I'm a Full-Stack Developer working in Bucharest, Romania.
 
-##### Created
+##### CREATED
 
-- 🔍 A place to save and search fast for memes - [Foundmymeme](https://foundmyme.me);
-- 🚀 productivity tool for your browser - [SiteBlocker](https://chrome.google.com/webstore/detail/siteblocker/aadnooghcahhgmkhkhkoflblfbhcndig?hl=en);
+- [Foundmymeme](https://foundmyme.me) -  a place to save and 🔍 fast for memes;
+- [SiteBlocker](https://chrome.google.com/webstore/detail/siteblocker/aadnooghcahhgmkhkhkoflblfbhcndig?hl=en) - productivity tool for your browser 🚀;
 - [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - Number input component with prefixes and masks for Svelte 3;
 - [`react-styled-frame`](https://www.npmjs.com/package/@pitis/react-styled-frame) - Tool that propagates styled components css to iframe;
 - [`diff-for-html-text`](https://www.npmjs.com/package/diff-for-html-text) - JS library for comparing two blocks of HTML as plain text and efficiently return a list of differences;
