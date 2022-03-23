@@ -5,7 +5,7 @@
 ##### Created
 
 - 🔍 A place to save and search fast for memes - [Foundmymeme](https://foundmyme.me);
-- 🇵🇹 productivity tool for your browser - [SiteBlocker](https://chrome.google.com/webstore/detail/siteblocker/aadnooghcahhgmkhkhkoflblfbhcndig?hl=en);
+- 🚀 productivity tool for your browser - [SiteBlocker](https://chrome.google.com/webstore/detail/siteblocker/aadnooghcahhgmkhkhkoflblfbhcndig?hl=en);
 - [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - Number input component with prefixes and masks for Svelte 3;
 - [`react-styled-frame`](https://www.npmjs.com/package/@pitis/react-styled-frame) - Tool that propagates styled components css to iframe;
 - [`diff-for-html-text`](https://www.npmjs.com/package/diff-for-html-text) - JS library for comparing two blocks of HTML as plain text and efficiently return a list of differences;
@@ -15,7 +15,7 @@
 - ⚙️ I use daily: `.css`, `.js`, `.ts`, `.py`
 - 🌍 I'm mostly active within the **React and Svelte Community**
 - 🌱 Learning about and contributing to **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/pitisradu](https://twitter.com/pitisradu)
 - ⚡️ Fun fact: I own a 🦔 called Lisa
 
