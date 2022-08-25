@@ -20,7 +20,7 @@
 - ⚡️ Fun fact: I own a 🦔 called Lisa
 
 ##### WRITINGS
-
+- [Frontend Roadmap in 2022](https://medium.com/@pitis.radu/frontend-roadmap-in-2022-e3913070225c)
 - [React State Management in 2022](https://medium.com/@pitis.radu/react-state-management-in-2022-345c87922479)
 - [I deleted my Facebook account a year ago… Here’s what happened](https://medium.com/@pitis.radu/i-deleted-my-facebook-account-a-year-ago-heres-what-happened-e916a0634e67)
 - [I wanted to create a SaaS and failed before I started](https://medium.com/@pitis.radu/i-wanted-to-create-a-saas-and-failed-before-i-started-36b9062f0319)
