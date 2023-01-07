@@ -20,6 +20,7 @@
 - ⚡️ Fun fact: I own a 🦔 called Lisa
 
 ##### WRITINGS
+- [Why Progressive Web Apps Failed to Take Off](https://medium.com/@pitis.radu/why-progressive-web-apps-failed-to-take-off-a-look-at-the-challenges-and-barriers-9718da21f87b)
 - [CSS vs CSS-in-JS Performance](https://medium.com/@pitis.radu/css-vs-css-in-js-performance-bcbdf8e1f6ff)
 - [Frontend Roadmap in 2022](https://medium.com/@pitis.radu/frontend-roadmap-in-2022-e3913070225c)
 - [React State Management in 2022](https://medium.com/@pitis.radu/react-state-management-in-2022-345c87922479)
