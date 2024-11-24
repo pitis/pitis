@@ -16,7 +16,6 @@
 - 🌍 I'm mostly active within the **React and Svelte Community**
 - 🌱 Learning about and contributing to **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/pitisradu](https://twitter.com/pitisradu)
 - ⚡️ Fun fact: I own a 🦔 called Lisa
 
 ##### WRITINGS
