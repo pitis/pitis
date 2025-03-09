@@ -4,7 +4,8 @@
 
 ##### CREATED
 
-- [SiteBlocker](https://chrome.google.com/webstore/detail/siteblocker/aadnooghcahhgmkhkhkoflblfbhcndig?hl=en) - productivity tool for your browser 🚀;
+- [SiteBlocker](https://siteblocker.app) - productivity tool for your browser 🚀;
+- [MenuBear](https://menubear.com) - next-gen digital menu 🚀;
 - [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - Number input component with prefixes and masks for Svelte 3;
 - [`react-styled-frame`](https://www.npmjs.com/package/@pitis/react-styled-frame) - Tool that propagates styled components css to iframe;
 - [`diff-for-html-text`](https://www.npmjs.com/package/diff-for-html-text) - JS library for comparing two blocks of HTML as plain text and efficiently return a list of differences;
@@ -12,11 +13,10 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.css`, `.js`, `.ts`
 - 🌍 I'm mostly active within the **React and Svelte Community**
 - 🌱 Learning about and contributing to **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
-- ⚡️ Fun fact: I own a 🦔 called Lisa
+- ⚡️ Fun fact: I owned and am a big fan of 🦔s
 
 ##### WRITINGS
 - [Why Progressive Web Apps Failed to Take Off](https://medium.com/@pitis.radu/why-progressive-web-apps-failed-to-take-off-a-look-at-the-challenges-and-barriers-9718da21f87b)
