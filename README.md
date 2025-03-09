@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.css`, `.js`, `.ts`, `.py`
+- ⚙️ I use daily: `.css`, `.js`, `.ts`
 - 🌍 I'm mostly active within the **React and Svelte Community**
 - 🌱 Learning about and contributing to **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
