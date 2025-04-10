@@ -5,8 +5,8 @@
 ##### CREATED
 
 - [SiteBlocker](https://siteblocker.app) - productivity tool for your browser 🚀;
-- [MenuBear](https://menubear.com) - next-gen digital menu 🚀;
-- [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - Number input component with prefixes and masks for Svelte 3;
+- [LightningAddon](https://lightningaddon.com) - Chrome Extension boilerplate with all you need to build your SaaS 🚀;
+- [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - Number input component with prefixes and masks for Svelte 5;
 - [`react-styled-frame`](https://www.npmjs.com/package/@pitis/react-styled-frame) - Tool that propagates styled components css to iframe;
 - [`diff-for-html-text`](https://www.npmjs.com/package/diff-for-html-text) - JS library for comparing two blocks of HTML as plain text and efficiently return a list of differences;
 - Foundmymeme (retired because of Heroku) -  a place to save and 🔍 fast for memes;
