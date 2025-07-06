@@ -19,11 +19,11 @@
 - ⚡️ Fun fact: I owned and am a big fan of 🦔s
 
 ##### WRITINGS
-- [Why Progressive Web Apps Failed to Take Off](https://medium.com/@pitis.radu/why-progressive-web-apps-failed-to-take-off-a-look-at-the-challenges-and-barriers-9718da21f87b)
+- [Difficulty in CSS Frameworks](https://medium.com/javascript-in-plain-english/difficulty-in-css-frameworks-b5b13bd06a9d)
+- [“Stale” Closures in React Aren't Real. Here's What's Actually Happening](https://medium.com/javascript-in-plain-english/stale-closures-in-react-arent-real-here-s-what-s-actually-happening-29b0d62a0b9f)
+- [RIP Styled-Components? Not Dead, but Retired](https://medium.com/@pitis.radu/rip-styled-components-not-dead-but-retired-eed7cb1ecc5a)
 - [CSS vs CSS-in-JS Performance](https://medium.com/@pitis.radu/css-vs-css-in-js-performance-bcbdf8e1f6ff)
-- [Frontend Roadmap in 2022](https://medium.com/@pitis.radu/frontend-roadmap-in-2022-e3913070225c)
+- [Why Progressive Web Apps Failed to Take Off: A Look at the Challenges and Barriers](https://medium.com/@pitis.radu/why-progressive-web-apps-failed-to-take-off-a-look-at-the-challenges-and-barriers-9718da21f87b)
 - [React State Management in 2022](https://medium.com/@pitis.radu/react-state-management-in-2022-345c87922479)
-- [I deleted my Facebook account a year ago… Here’s what happened](https://medium.com/@pitis.radu/i-deleted-my-facebook-account-a-year-ago-heres-what-happened-e916a0634e67)
-- [I wanted to create a SaaS and failed before I started](https://medium.com/@pitis.radu/i-wanted-to-create-a-saas-and-failed-before-i-started-36b9062f0319)
-- [Manifest V3 — The hidden agenda](https://medium.com/@pitis.radu/manifest-v3-the-hidden-agenda-28845475af05)
 - [Create a Chrome Extension with React and inject it into webpages](https://medium.com/@pitis.radu/create-a-chrome-extension-with-react-and-inject-it-into-webpages-73b5e44bcf7e)
+
