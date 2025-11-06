@@ -5,7 +5,7 @@
 ##### CREATED
 
 - [Caselib](https://caselib.ro) -  Digital case management solution for lawyers 🚀;
-- - [LightningAddon](https://lightningaddon.com) - Chrome Extension boilerplate with all you need to build your SaaS 🚀;
+- [LightningAddon](https://lightningaddon.com) - Chrome Extension boilerplate with all you need to build your SaaS 🚀;
 - [SiteBlocker](https://siteblocker.app) - productivity tool for your browser 🚀;
 - [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - Number input component with prefixes and masks for Svelte 5;
 
