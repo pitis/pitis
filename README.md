@@ -7,14 +7,14 @@
 - [Caselib](https://caselib.ro) -  Digital case management solution for lawyers 🚀;
 - [LightningAddon](https://lightningaddon.com) - Chrome Extension boilerplate with all you need to build your SaaS 🚀;
 - [SiteBlocker](https://siteblocker.app) - productivity tool for your browser 🚀;
-- [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - Number input component with prefixes and masks for Svelte 5;
+- [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - lightweight and reactive number input component for Svelte 5;
 
 ##### BIO
 
 - 🌍 I'm mostly active within the **NodeJS, PHP and Python Communities**
 - 🌱 Learning and contributing to **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
-- ⚡️ Fun fact: I owned and am a big fan of 🦔s
+- ⚡️ Fun fact: I love 🦔s
 
 ##### WRITINGS
 - [Difficulty in CSS Frameworks](https://medium.com/javascript-in-plain-english/difficulty-in-css-frameworks-b5b13bd06a9d)
