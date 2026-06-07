@@ -11,7 +11,7 @@
 
 ##### BIO
 
-- 🌍 I'm mostly active within the **JavaScript, PHP and Design/UX Communities**
+- 🌍 I'm mostly active within the **JavaScript, Go, Python and Design/UX Communities**
 - 🌱 Learning and contributing to **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - ⚡️ Fun fact: I love 🦔s
