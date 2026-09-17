@@ -4,9 +4,8 @@
 
 ##### CREATED
 
-- [Caselib](https://caselib.ro) -  Digital case management solution for lawyers 🚀;
-- [SiteBlocker](https://siteblocker.app) - productivity tool for your browser 🚀;
-- [`@framework-doctor`](https://www.npmjs.com/package/@framework-doctor/cli) - Diagnose and improve your Angular/React/Vue/Svelte codebase health;
+- [TermenPlus](https://termenplus.ro) -  Digital case management solution for lawyers 🚀;
+- [Blockodile](https://blockodile.app) - productivity tool for your browser 🚀;
 - [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - lightweight and reactive number input component for Svelte 5;
 
 ##### BIO
