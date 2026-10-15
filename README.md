@@ -5,7 +5,6 @@
 ##### CREATED
 
 - [TermenPlus](https://termenplus.ro) -  Digital case management solution for lawyers 🚀;
-- [Blockodile](https://blockodile.app) - productivity tool for your browser 🚀;
 - [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - lightweight and reactive number input component for Svelte 5;
 
 ##### BIO
