@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Vienna, Austria.
+#### I'm a Senior Full-Stack & AI Engineer working in Vienna, Austria.
 
 ##### CREATED
 
@@ -8,6 +8,10 @@
 - [Hush](https://github.com/pitis/Hush) - unofficial native macOS Signal client: a Rust core on presage and a SwiftUI app;
 - Perch - a Mac workspace in the notch: tasks, notes, focus timers and calendar events, with an MCP server for AI clients;
 - [SiteBlocker](https://siteblocker.app) - website blocker for Chrome and Firefox, with schedules, focus mode and insights;
+
+##### CO-FOUNDED
+
+- [Caselib](https://www.caselib.ro) - court case monitoring for Romanian lawyers: all 243 courts synced daily, alerts on every change by email and push;
 
 ##### AI AGENT SKILLS
 
