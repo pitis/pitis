@@ -1,15 +1,26 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Vienna, Austria.
+#### I'm a Senior Full-Stack & AI Engineer working in Vienna, Austria.
 
 ##### CREATED
 
-- [TermenPlus](https://termenplus.ro) -  Digital case management solution for lawyers 🚀;
-- [`svelte-number-format`](https://www.npmjs.com/package/svelte-number-format) - lightweight and reactive number input component for Svelte 5;
+- [Blockodile](https://blockodile.app) - one AI policy for every coding agent on your team, enforced on each machine with an audit log, plus Autopilot, which turns tickets into pull requests;
+- [Hush](https://github.com/pitis/Hush) - unofficial native macOS Signal client: a Rust core on presage and a SwiftUI app;
+- Perch - a Mac workspace in the notch: tasks, notes, focus timers and calendar events, with an MCP server for AI clients;
+- [SiteBlocker](https://siteblocker.app) - website blocker for Chrome and Firefox, with schedules, focus mode and insights;
+
+##### CO-FOUNDED
+
+- [Caselib](https://www.caselib.ro) - court case monitoring for Romanian lawyers: all 243 courts synced daily, alerts on every change by email and push;
+
+##### AI AGENT SKILLS
+
+- [`ux-review-toolkit`](https://github.com/pitis/ux-review-toolkit) - Claude Code plugin: five specialist agents audit a screen, route or PR in parallel and merge into one ranked UX report;
+- [`new-project-skill`](https://github.com/pitis/new-project-skill) - Claude Code plugin that scaffolds a working SaaS monorepo (NestJS, Postgres, Better Auth, Stripe, Nuxt, Astro, WXT) and checks it before reporting back;
 
 ##### BIO
 
-- 🌍 I'm mostly active within the **JavaScript, Go, Python and Design/UX Communities**
+- 🌍 I'm mostly active within the **JavaScript, Go, Rust and Design/UX Communities**
 - 🌱 Learning and contributing to **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - ⚡️ Fun fact: I love 🦔s
