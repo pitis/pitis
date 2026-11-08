@@ -6,7 +6,7 @@
 
 - [Blockodile](https://blockodile.app) - one AI policy for every coding agent on your team, enforced on each machine with an audit log, plus Autopilot, which turns tickets into pull requests;
 - [Hush](https://github.com/pitis/Hush) - unofficial native macOS Signal client: a Rust core on presage and a SwiftUI app;
-- Perch - a Mac workspace in the notch: tasks, notes, focus timers and calendar events, with an MCP server for AI clients;
+- [Perch](https://github.com/pitis/perch) - a Mac workspace in the notch: tasks, notes, focus timers and calendar events, with an MCP server for AI clients;
 - [SiteBlocker](https://siteblocker.app) - website blocker for Chrome and Firefox, with schedules, focus mode and insights;
 
 ##### CO-FOUNDED
